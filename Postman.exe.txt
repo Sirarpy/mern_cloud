@@ -1,0 +1,5 @@
+set HTTP_PROXY=''
+set HTTPS_PROXY=''
+set http_proxy=''
+set https_proxy=''
+start C:\Postman.exe
